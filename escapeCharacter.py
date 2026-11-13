@@ -1,0 +1,2 @@
+#the escape character is used when we want to insert a character that is not allowed in a string. For example, if we want to insert a double quote in a string, we can use the escape character \ before the double quote.
+print("This is a string with a double quote: \"Hello, World!\"")
